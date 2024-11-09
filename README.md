@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer<br>🌱 I’m currently learning Front end Developer<br>
+🔭 I’m currently working as a Freelancer<br>🌱 I’m currently learning as a Front end Developer<br>
 
 
 ## 🌐 Socials:
