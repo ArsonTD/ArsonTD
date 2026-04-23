@@ -4,11 +4,11 @@
 
 💻 Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
 
-🚀 I work with technologies like React, TypeScript and TailwindCSS on the frontend, and Node.js, .NET and FastAPI on the backend. I have experience designing APIs, working with SQL/NoSQL databases, and building real-time systems using WebSockets and SignalR.
+I work with technologies like React, TypeScript and TailwindCSS on the frontend, and Node.js, .NET and FastAPI on the backend. I have experience designing APIs, working with SQL/NoSQL databases, and building real-time systems using WebSockets and SignalR.
 
-🧠 I also integrate AI solutions, automate processes, and apply best practices in UX/UI to deliver high-quality digital products.
+I also integrate AI solutions, automate processes, and apply best practices in UX/UI to deliver high-quality digital products.
 
-⚡ Passionate about creating efficient systems, clean interfaces and scalable architectures.
+Passionate about creating efficient systems, clean interfaces and scalable architectures.
 
 ---
 
