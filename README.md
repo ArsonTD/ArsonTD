@@ -1,3 +1,4 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7261108b-dccc-40b0-a044-6c3ecba17562" />
 # 💫 About Me:
 🔭 I’m currently working as a Freelancer<br>🌱 I’m currently learning as a Front end Developer<br>
 
