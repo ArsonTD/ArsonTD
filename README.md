@@ -12,50 +12,79 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-- React, Next.js, Vue, TypeScript, TailwindCSS
-
-**Backend**
-- Node.js, NestJS, .NET, FastAPI
-
-**Databases**
-- PostgreSQL, MongoDB
-
-**Other**
-- Docker, Microservices, WebSockets, SignalR, Firebase, Supabase
-
----
-
-## 🎯 Focus
-- Scalable Web Applications
-- Microservices Architecture
-- UX/UI Optimization
-- Performance & SEO
-- AI Integration
+### 💻 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-blue?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/SignalR-RealTime-purple?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
 
 ---
 
-## 📫 Let's connect
-- Portfolio: [your link]
-- LinkedIn: [your link]
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bp4s8Qba) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arsontd28/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anderson-tejeda-20b35621b/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArsonTD&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArsonTD&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsonTD&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArsonTD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State-black?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-purple?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArsonTD&icon=6&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏢 SAP & Enterprise
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-Programming-blue?style=for-the-badge)
+![CAP](https://img.shields.io/badge/CAP-Model-green?style=for-the-badge)
+![OData](https://img.shields.io/badge/OData-Protocol-lightblue?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-black?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧠 AI & Automation
+![AI Integration](https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots-AI-blue?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 🛒 E-commerce & SEO
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-Optimization-green?style=for-the-badge)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Core_Web_Vitals-blue?style=for-the-badge)
