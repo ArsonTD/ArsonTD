@@ -1,6 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7261108b-dccc-40b0-a044-6c3ecba17562" />
 # 💫 About Me:
-# 👋 Hi, I'm Anderson Tejeda
+
 
  Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
 
