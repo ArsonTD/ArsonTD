@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7261108b-dccc-40b0-a044-6c3ecba17562" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/dbd3a9ff-3f7e-4278-90e7-9cbe9643cadb" />
+
 # 💫 About Me:
 
  Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
