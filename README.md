@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
- Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
+Hi! My name is Anderson Tejeda, currently working as a Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
 
 I work with technologies like React, TypeScript and TailwindCSS on the frontend, and Node.js, .NET and FastAPI on the backend. I have experience designing APIs, working with SQL/NoSQL databases, and building real-time systems using WebSockets and SignalR.
 
