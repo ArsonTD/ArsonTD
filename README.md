@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 **Frontend**
-- React, Next.js, Angular,TypeScript, TailwindCSS
+- React, Next.js, Vue, TypeScript, TailwindCSS
 
 **Backend**
 - Node.js, NestJS, .NET, FastAPI
