@@ -1,6 +1,45 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7261108b-dccc-40b0-a044-6c3ecba17562" />
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer<br>🌱 I’m currently learning as a Front end Developer<br>
+# 👋 Hi, I'm Anderson Tejeda
+
+💻 Full Stack Developer with a strong focus on frontend, building modern, scalable and user-centered web applications.
+
+🚀 I work with technologies like React, TypeScript and TailwindCSS on the frontend, and Node.js, .NET and FastAPI on the backend. I have experience designing APIs, working with SQL/NoSQL databases, and building real-time systems using WebSockets and SignalR.
+
+🧠 I also integrate AI solutions, automate processes, and apply best practices in UX/UI to deliver high-quality digital products.
+
+⚡ Passionate about creating efficient systems, clean interfaces and scalable architectures.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js, TypeScript, TailwindCSS
+
+**Backend**
+- Node.js, NestJS, .NET, FastAPI
+
+**Databases**
+- PostgreSQL, MongoDB
+
+**Other**
+- Docker, Microservices, WebSockets, SignalR, Firebase, Supabase
+
+---
+
+## 🎯 Focus
+- Scalable Web Applications
+- Microservices Architecture
+- UX/UI Optimization
+- Performance & SEO
+- AI Integration
+
+---
+
+## 📫 Let's connect
+- Portfolio: [your link]
+- LinkedIn: [your link]
 
 
 ## 🌐 Socials:
